@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbaguette&label=Profile%20views&color=0e75b6&style=flat" alt="softbaguette" /> </p>
 
-- 🔭 I’m currently working on **my end of year Computer Science project**
+- 🔭 I’m currently working on: **End of year Computer Science project**
 
-- 🌱 Courses I'm currently taking **Intelligent Systems: Probabilistic and Deep Learning, Computing by Graph Transformation**
+- 🌱 Courses I'm currently taking: **Intelligent Systems: Probabilistic and Deep Learning, Computing by Graph Transformation**
 
 - ⚡ Fun fact **This GitHub Page is still under construction (:**
 
