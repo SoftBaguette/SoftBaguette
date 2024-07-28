@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">A Computer science student with a deep passion for technology</h3>
+<h3 align="center">A Computer science graduate with a deep passion for technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softbaguette&label=Profile%20views&color=0e75b6&style=flat" alt="softbaguette" /> </p>
 
-- 🔭 I’m currently working on: **End of year Computer Science project**
+- 🔭 I’m currently working on: **Refining my GitHub Profile**
 
-- 🌱 Courses I'm currently taking: **Intelligent Systems: Probabilistic and Deep Learning, Computing by Graph Transformation**
+- 🌱 Courses I'm currently taking: **Intelligent Systems: Probabilistic and Deep Learning, Evolutionary and Adaptive Computing**
 
 - ⚡ Fun fact: **The first computer 'bug' was an actual moth found in a computer in 1947, leading to the term 'debugging' for fixing issues. (:**
 
