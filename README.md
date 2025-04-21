@@ -34,7 +34,7 @@
   <tr>
     <td><strong>AWS Cloud</strong></td>
     <td>
-      <a href="https://aws.amazon.com" target="_blank"><img src="https://d3rntkvtaky37j.cloudfront.net/icon/8f57ebd825a828e205b2dde223ba17e4-6af63a22dc297f8041286760ee8cd2c9.svg" alt="AWS Cloud" width="40" height="40"/></a>
+      <a href="https://aws.amazon.com/cloudwatch" target="_blank"><img src="https://d3rntkvtaky37j.cloudfront.net/icon/8f57ebd825a828e205b2dde223ba17e4-6af63a22dc297f8041286760ee8cd2c9.svg" alt="AWS Cloud" width="40" height="40"/></a>
       <a href="https://aws.amazon.com/lambda" target="_blank"><img src="https://d3rntkvtaky37j.cloudfront.net/icon/945f3fc449518a73b9f5f32868db466c-926961f91b072604c42b7f39ce2eaf1c.svg" alt="AWS Lambda" width="40" height="40"/></a>
       <a href="https://aws.amazon.com/api-gateway" target="_blank"><img src="https://d3rntkvtaky37j.cloudfront.net/icon/fb0cde6228b21d89ec222b45efec54e7-0856e92285f4e7ed254b2588d1fe1829.svg" alt="API Gateway" width="40" height="40"/></a>
       <a href="https://aws.amazon.com/cognito" target="_blank"><img src="https://d2eezf66cfmyv.cloudfront.net/icon/7c8353710f9831898e50921c0879977a-393ba9c98bdcec2ebfd74a7cbac07d88.svg" alt="Amazon Cognito" width="40" height="40"/></a>
