@@ -42,7 +42,6 @@
       <a href="https://aws.amazon.com/s3" target="_blank"><img src="https://d3rntkvtaky37j.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" alt="Amazon S3" width="40" height="40"/></a>
       <a href="https://aws.amazon.com/dynamodb" target="_blank"><img src="https://d3rntkvtaky37j.cloudfront.net/icon/6f419a45e63123b4c16bd679549610f6-87862c68693445999110bbd6a467ce88.svg" alt="Amazon DynamoDB" width="40" height="40"/></a>
       <a href="https://aws.amazon.com/rds/aurora" target="_blank"><img src="https://d2eezf66cfmyv.cloudfront.net/icon/1d374ed2a6bcf601d7bfd4fc3dfd3b5d-c9f69416d978016b3191175f35e59226.svg" alt="Amazon Aurora" width="40" height="40"/></a>
-      <a href="https://aws.amazon.com/cloudwatch" target="_blank"><span>CloudWatch</span></a>
     </td>
   </tr>
   <tr>
